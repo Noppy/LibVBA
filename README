@@ -1,0 +1,13 @@
+Library for EXCEL VBA
+
+
+* Library Class
+   -lib_hash     -> lib_hash.cls   Hash Array
+   -lib_list     -> lib_list.cls   Linked List Array
+   -lib_stack    -> lib_stack.cls  Stack
+
+
+* Usage
+  - Create New Workbook at EXCEL
+  - Open Macro Editor( ALT + F11 )
+  - Import "*.cls" File
